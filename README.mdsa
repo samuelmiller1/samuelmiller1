@@ -1,0 +1,40 @@
+- 👋 Hi, I’m @samuelmiller1
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+samuelmiller1/samuelmiller1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+    Fast-selling items can be identified quickly and automatically reordered.
+    Slow-selling items can be identified, preventing inventory build-up.
+    The effects of merchandising changes can be monitored, allowing fast-moving, more profitable items to occupy the best space.
+    Historical data can be used to predict seasonal fluctuations very accurately.
+    Items may be repriced on the shelf to reflect both sale prices and price increases.
+    This technology also enables the profiling of individual consumers, typically through a voluntary registration of discount cards. While pitched as a benefit to the consumer, this practice is considered to be potentially dangerous by privacy advocates.[which?]
+
+Besides sales and inventory tracking, barcodes are very useful in logistics and supply chain management.
+
+    When a manufacturer packs a box for shipment, a Unique Identifying Number (UID) can be assigned to the box.
+    A database can link the UID to relevant information about the box; such as order number, items packed, quantity packed, destination, etc.
+    The information can be transmitted through a communication system such as Electronic Data Interchange (EDI) so the retailer has the information about a shipment before it arrives.
+    Shipments that are sent to a Distribution Center (DC) are tracked before forwarding. When the shipment reaches its final destination, the UID gets scanned, so the store knows the shipment's source, contents, and cost.
+
+Barcode scanners are relatively low cost and extremely accurate compared to key-entry, with only about 1 substitution error in 15,000 to 36 trillion characters entered.[39][unreliable source?] The exact error rate depends on the type of barcode.
+Types of barcodes
+Linear barcodes
+
+A first generation, "one dimensional" barcode that is made up of lines and spaces of various widths or sizes that create specific patterns.
+Example 	Symbology 	Continuous or discrete 	Bar type 	Uses
+Australia Post 4-state barcode.png 	Australia Post barcode 	Discrete 	4 bar heights 	An Australia Post barcode as used on a business reply paid envelope and applied by automated sorting machines to other mail when initially processed in fluorescent ink .
+Codabar.svg 	Codabar 	Discrete 	Two 	Old format used in libraries and blood banks and on airbills (out of date, but still widely used in libraries)
+	Code 25 – Non-interleaved 2 of 5 	Continuous 	Two 	Industrial
+Barcode2of5example.svg 	Code 25 – Interleaved 2 of 5 	Continuous 	Two 	Wholesale, libraries International standard ISO/IEC 16390
+Code11 barcode.png 	Code 11 	Discrete 	Two 	Telephones (out of date)
+Code32 01234567.png 	Farmacode or Code 32 	Discrete 	Two 	Italian pharmacode – use Code 39 (no international standard available)
+Code 3 of 9.svg 	Code 39 	Discrete 	Two 	Various – international standard ISO/IEC 16388
+Code 49 wikipedia.png 	Code 49 	Continuous 	Many 	Various
+Code 93 Wikipedia barcode.png 	Code 93 	Continuous 	Many 	Various
+Code 128B-2009-06-02.svg 	Code 128 	Continuous 	Many
